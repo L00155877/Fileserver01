@@ -1,6 +1,10 @@
 127.0.0.1 localhost
 172.18.68.116 fileserver01.l00155877.lyit fileserver01
 
+# Adding DC1 to allow authentication of domain users when joining the domain l00155877.lyit
+
+172.18.68.114 dc1.l00155877.lyit
+
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback
 fe00::0 ip6-localnet
