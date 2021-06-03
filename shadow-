@@ -31,3 +31,5 @@ usbmux:*:18781:0:99999:7:::
 sshd:*:18781:0:99999:7:::
 systemd-coredump:!!:18781::::::
 administrator:$6$bOqKXtUL1Fw8Zcg/$0uEGbv0XkoBHooMDkyh4yD1ERUAk0WixEEkqcEwoBs9jgRF5nxhUncX2PBOJuEoy1ONDzDW9g4dm.yaGiwuqh/:18781:0:99999:7:::
+lxd:!:18781::::::
+sssd:*:18781:0:99999:7:::
